@@ -509,7 +509,7 @@ ul {
   top: 0;
   background: var(--iris);
   height: 100%;
-  padding: 40px 32px 164px 32px;
+  padding: 40px 32px;
   transform: translateY(100%);
   transition-property: transform;
   transition-duration: 250ms;
